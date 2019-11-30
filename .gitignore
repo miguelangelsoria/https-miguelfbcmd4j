@@ -1,5 +1,6 @@
 # java specific
 *.class
+*.swp
 
 # netbeans ignore personal stuff
 nbproject/
